@@ -3,7 +3,7 @@
 import requests
 import json
 
-app_version = "2.4.0"
+app_version = "2.5.0"
 
 link_base = "https://production.arisa-project.net/api/Master/"
 data_alias = ["Version", "Music", "TitleAsset", "Criware", "Character", "Other", "OtherLowFrequency", "Event", "Scenario"]
